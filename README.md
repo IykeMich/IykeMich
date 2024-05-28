@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ugochukwu Ekwueme</h1>
-<h3 align="center">Currently a student at the NAU, Nigeria🌟.</h3>
+<h1 align="center">Hi 👋, I'm Ikechukwu Ogbu</h1>
+<h3 align="center">A seasoned Software Engineer and Data Analyst🌟.</h3>
 
 <br>
 
@@ -29,21 +29,21 @@ Here are some ideas to get you started:
 <p><img width="200px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="IykeMich" /></p>
 <p>As a seasoned full-stack web developer with over 5 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p>
 
-- 🌱 I’m currently learning App Development and other programming languages
+<!-- - 🌱 I’m currently learning App Development and other programming languages -->
 
-- 📫 How to reach me **ekwuemeugochukwu83@gmail.com**
+- 📫 How to reach me **ikechukwuogbu321@gmail.com**
 
-- 🌐 Visit my website [Hydrogen Technologies](https://hydrogentech.com.ng)
+<!-- - 🌐 Visit my website [Hydrogen Technologies](https://hydrogentech.com.ng) -->
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+<!-- - ⚡ Fun fact :- Food and Music🎵 are the reasons to live. -->
 
 <br>
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://spotify-readme-gamma-bay.vercel.app/api?theme=dark&spin=true" alt="Current Spotify Song">
 </a>
-
+-->
 ---
 <br>
 
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/IykeMich" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
     </a>
+<!--
   <a href="https://www.facebook.com/ekwueme.ugochukwu.315" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
@@ -65,6 +66,8 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
+
+-->
 
 <br>
 
