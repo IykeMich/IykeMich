@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 <p><img width="200px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="IykeMich" /></p>
-<p>As a seasoned full-stack web developer with over 5 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p>
+<p>As a seasoned full-stack web developer with over 3 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p>
 
 <!-- - 🌱 I’m currently learning App Development and other programming languages -->
 
