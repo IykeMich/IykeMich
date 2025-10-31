@@ -15,19 +15,62 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ikechukwu Ogbu</h1>
-<h3 align="center">A seasoned Software Engineer and Data Analyst🌟.</h3>
+<h3 align="center">Frontend Engineer | Data Enthusiast | Cloud Developer (AWS & Azure) 🌟.</h3>
 
 <br>
 
 <p align="right">
     <h3>Profile Views :-</h3>
-    <img src="https://komarev.com/ghpvc/?username=IykeMich&label=Profile%20views&color=0e75b6&style=flat" alt="Ugochukwu" /> 
+    <img src="https://komarev.com/ghpvc/?username=IykeMich&label=Profile%20views&color=0e75b6&style=flat" alt="Ikechukwu" /> 
   </p>
 
 <br>
 
 <p><img width="200px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="IykeMich" /></p>
-<p>As a seasoned full-stack web developer with over 3 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p>
+<!-- <p>As a seasoned full-stack web developer with over 3 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p> -->
+
+---
+
+### 💡 About Me
+- 🚀 I’m currently sharpening my skills in **React.js (TSX)**, **Redux Toolkit**, **TanStack Query**, and **API architecture**.
+- 🌩️ Exploring **AWS Cloud Development** — preparing for **AWS Certified Developer – Associate**.
+- 📊 Passionate about **data systems** — building toward fraud detection, churn prediction & centralized data platforms for banks.
+- 🧩 I love **clean UI design**, **structured code**, and **production-ready React apps**.
+- 🧠 Currently following my *Brain Beast Routine* — learning + mindfulness + execution daily.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,html,css,js,aws,azure,firebase,vite,tailwind,git,github,python" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+| Project | Description | Stack |
+|----------|--------------|-------|
+| 🛒 **E-commerce Dashboard** | Deep category search, filters, analytics & pagination using **Redux Toolkit + RTK Query + Formik** | React, TypeScript, Firebase |
+| 🧾 **Customer Management System** | Role-based dashboard with search, filters & modal verification | React, Zustand, TypeScript |
+| 📈 **Fraud Detection Prototype** | Simulated pipeline for anomaly detection using Python & Scikit-learn | Python, Pandas, AWS S3 |
+| ☁️ **Cloud Deployment Demo** | CI/CD pipeline from GitHub → Go54 (Whogohost) | AWS, GitHub Actions, Vite |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ikechukwumichael&show_icons=true&theme=radical&count_private=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ikechukwumichael&theme=radical" />
+</p>
+
+---
+
+<!--- ### 🌱 Current Goals
+- 🧩 Master **advanced React patterns** (architecture, optimization, API design)
+- ☁️ Earn **AWS Developer – Associate**
+- 📊 Build **data models** & visual dashboards for real business problems
+
+--- ---!>
 
 <!-- - 🌱 I’m currently learning App Development and other programming languages -->
 
@@ -48,12 +91,13 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/IykeMich" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
     </a>
+  <a href="mailto:ikechukwuogbu321@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 <!--
-  <a href="https://www.facebook.com/ekwueme.ugochukwu.315" target="blank"><img align="center"
+  <a href="https://www.facebook.com/ekwueme.Ikechukwu.315" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://www.instagram.com/ugo_access/" target="blank"><img align="center"
