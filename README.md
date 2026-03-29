@@ -1,90 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ikechukwu Ogbu</h1>
+<h1 align="center">Hi 👋, I'm Ikechukwu Michael Ogbu</h1>
 <h3 align="center">
-Frontend Engineer → Cloud Developer → Data Engineer 🚀
+Frontend Engineer • Cloud Engineer • Data Systems Focus 🚀
 </h3>
 
 ---
 
 ## 💡 About Me
 
-I’m a **Frontend Engineer with strong production experience**, currently evolving into a **Cloud & Data Engineer**.
+I’m a **Frontend Engineer with strong production experience**, building **complex, scalable platforms** across fintech, health, and on-demand services.
 
-I build **scalable, user-focused applications** and I’m deeply interested in how systems work behind the scenes — from UI interactions to **data pipelines and cloud infrastructure**.
+I specialize in developing **end-to-end systems** — not just interfaces:
+from **frontend architecture → API integration → cloud deployment → data-ready systems**.
 
-- 🔭 Currently building **production-ready React apps** with strong architecture
-- 🌩️ Preparing for **AWS Certified Developer – Associate**
-- 📊 Transitioning into **Data Engineering & Data Science**
-- 🧠 Passionate about **fraud detection systems, analytics, and financial data systems**
-- ⚡ I focus on **clean code, performance, and real-world impact**
-
----
-
-## 🧠 What I’m Becoming
-
-Not just a frontend dev anymore.
-
-I’m building towards:
-
-- 🏗️ **Data Platforms** (for fintech & banking systems)
-- 🔍 **Fraud Detection Systems**
-- 📈 **Customer Analytics & Churn Models**
-- ☁️ **Cloud-Native Applications (AWS & Azure)**
+- 🚀 Delivered **multi-tenant platforms, dashboards, and real-time systems**
+- ☁️ Deployed applications using **AWS (Amplify, S3) + CI/CD pipelines**
+- 🔌 Built **scalable API integration layers** (RTK Query, service-based architecture)
+- 📊 Design systems with **analytics, reporting, and data pipelines in mind**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Core Strengths
 
-### 🎨 Frontend
-- React.js (TSX)
-- Redux Toolkit / RTK Query
-- TanStack Query
-- Tailwind / NativeWind
-- Vite
-
-### ⚙️ Backend / Data
-- Python (Pandas, Scikit-learn)
-- REST API Architecture (Requests, Responses, Validation, Services)
-- Firebase (BaaS)
-
-### ☁️ Cloud & DevOps
-- AWS (S3, CI/CD, Developer Tools)
-- Azure (Learning)
-- GitHub Actions (CI/CD Pipelines)
-- Whogohost / Go54 Deployment
+- 🧩 Scalable Frontend Architecture (React, Next.js, TypeScript)
+- 🔌 API Integration at Scale (RTK Query, Axios, structured services)
+- ☁️ Cloud Deployment & CI/CD (AWS Amplify, GitHub Actions)
+- 📊 Data-Driven Systems (analytics dashboards, reporting pipelines)
+- ⚡ Performance Optimization & Clean Code
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Key Projects
 
-### 🛒 E-commerce System (HustleKart)
-- Full checkout flow with Paystack integration
-- State management using **Redux Toolkit + RTK Query**
-- Optimized API handling with clean architecture
+### 🏢 Kedeh — Multi-Tenant Business Platform
+Built a **full-scale multi-tenant SaaS platform** with both tenant-facing and super admin systems.
 
-### 🧾 Customer Management Dashboard
-- Role-based access system
-- Advanced filtering, search & modal workflows
-- Built with **React + TypeScript + Zustand**
+- Tenant dashboard for **campaigns, workforce, inventory, loyalty, gamification, analytics**
+- Super admin portal for **tenant management, subscriptions, users, platform monitoring**
+- Designed for **scalability across multiple businesses**
 
-### 📈 Fraud Detection Prototype
-- Simulated anomaly detection pipeline
-- Built with **Python + Pandas + Scikit-learn**
-- Data stored & processed via **AWS S3**
-
-### ☁️ CI/CD Deployment System
-- Automated deployments using **GitHub Actions**
-- Integrated with **Go54 (Whogohost)**
-- Focus on scalability & repeatability
+**Tech:** Next.js, React, Redux Toolkit (RTK Query), Tailwind CSS, AG Grid, Recharts
 
 ---
 
-## ⚡ Engineering Strengths
+### 🍽️ Skidos Kitchen — Food Ordering Platform (US)
+Developed a **complete food ordering and delivery system** with real-world payment flows.
 
-- 🧩 Clean and scalable architecture
-- 🔌 API design & integration (production-ready patterns)
-- ⚡ Performance optimization mindset
-- 📦 Modular and reusable component systems
-- 🧠 Strong debugging & problem-solving skills
+- Customer-facing: menu browsing, cart, checkout (**Stripe, WhatsApp, cash**)
+- Admin dashboard: **order management, menu control, revenue tracking**
+- Integrated real-time backend with Firebase
+
+**Tech:** Next.js, React, Zustand, Firebase (Firestore + Auth), Stripe, Tailwind CSS
+
+---
+
+### 🛠️ ServEase — On-Demand Services Platform
+Built both **marketing + operational systems** for a services marketplace.
+
+- Landing page with **animations and conversion-focused UI**
+- Admin dashboard for:
+  - Users, errands, payments, disputes
+  - Fulfillment tracking & audit logs
+  - Location-based services (**Google Maps integration**)
+- Real-time operational visibility
+
+**Tech:** Next.js, React (Vite), Redux Toolkit, Google Maps, ApexCharts, AG Grid
+
+---
+
+### 🏥 Wura — Health Coverage Platform
+Engineered a **multi-role healthcare platform** connecting patients, providers, and pharmacies.
+
+- Patient portal: browse/purchase plans, manage health conditions
+- Provider dashboard: consultations & care management
+- Pharmacy dashboard: prescriptions, pricing, payouts
+- Built to support **real healthcare workflows and data flows**
+
+**Tech:** React, React Router, Vite, Tailwind CSS, Radix UI, Axios, ECharts
+
+---
+
+## ☁️ Cloud & Deployment
+
+- Deployed applications using **AWS Amplify**
+- Built CI/CD pipelines with **GitHub Actions**
+- Managed hosting & deployments via **Go54 / Whogohost**
+- Designed **repeatable deployment workflows** across multiple projects
+
+---
+
+## 📊 Data Systems Focus
+
+I build systems with **data as a first-class concern**:
+
+- Analytics dashboards (Recharts, ApexCharts, ECharts)
+- Structured data flow for reporting & insights
+- Foundations for **fraud detection & behavioral analytics**
+- Experience working with **Python (Pandas, Scikit-learn)** for data processing
+
+---
+
+## 🧠 Engineering Mindset
+
+- Systems > components  
+- Scalability > shortcuts  
+- Data > assumptions  
+- Maintainability > hacks  
+
+---
+
+## 🌍 Focus Areas
+
+- 🏦 Fintech & Payment Systems  
+- 🏥 HealthTech Platforms  
+- 📡 Operational Dashboards  
+- 📊 Data-Driven Applications  
 
 ---
 
@@ -97,26 +126,13 @@ I’m building towards:
 
 ---
 
-## 🌍 Vision
+## 📫 Connect
 
-I’m on a mission to become a **top-tier engineer in Africa**, building systems that power:
-
-- 🏦 Banks
-- 📡 Telecom companies
-- 💳 Payment platforms
-- 📊 Data-driven organizations
+- 📧 **ikechukwuogbu321@gmail.com**
+- 💼 **https://www.linkedin.com/in/IykeMich**
 
 ---
 
-## 📫 Let’s Connect
+## ⚡ Philosophy
 
-- 📧 Email: **ikechukwuogbu321@gmail.com**
-- 💼 LinkedIn: [https://www.linkedin.com/in/ikechukwu-ogbu-a7244219a]
-- 🧠 Open to collaborations, opportunities & building impactful systems
-
----
-
-## ⚡ Fun Fact
-
-I treat learning like a system —  
-**Consistency + Execution + Reflection = Growth**
+**I build systems that scale — across users, businesses, and data.**
