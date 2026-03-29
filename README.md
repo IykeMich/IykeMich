@@ -111,7 +111,7 @@ I’m on a mission to become a **top-tier engineer in Africa**, building systems
 ## 📫 Let’s Connect
 
 - 📧 Email: **ikechukwuogbu321@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/IykeMich
+- 💼 LinkedIn: [https://www.linkedin.com/in/ikechukwu-ogbu-a7244219a]
 - 🧠 Open to collaborations, opportunities & building impactful systems
 
 ---
