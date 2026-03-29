@@ -1,177 +1,122 @@
-### Hello there 👋
-
-<!--
-**IykeMich/IykeMich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Ikechukwu Ogbu</h1>
-<h3 align="center">Frontend Engineer | Data Enthusiast | Cloud Developer (AWS & Azure) 🌟.</h3>
-
-<br>
-
-<p align="right">
-    <h3>Profile Views :-</h3>
-    <img src="https://komarev.com/ghpvc/?username=IykeMich&label=Profile%20views&color=0e75b6&style=flat" alt="Ikechukwu" /> 
-  </p>
-
-<br>
-
-<p><img width="200px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="IykeMich" /></p>
-<!-- <p>As a seasoned full-stack web developer with over 3 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p> -->
+<h3 align="center">
+Frontend Engineer → Cloud Developer → Data Engineer 🚀
+</h3>
 
 ---
 
-### 💡 About Me
-- 🚀 I’m currently sharpening my skills in **React.js (TSX)**, **Redux Toolkit**, **TanStack Query**, and **API architecture**.
-- 🌩️ Exploring **AWS Cloud Development** — preparing for **AWS Certified Developer – Associate**.
-- 📊 Passionate about **data systems** — building toward fraud detection, churn prediction & centralized data platforms for banks.
-- 🧩 I love **clean UI design**, **structured code**, and **production-ready React apps**.
-- 🧠 Currently following my *Brain Beast Routine* — learning + mindfulness + execution daily.
+## 💡 About Me
+
+I’m a **Frontend Engineer with strong production experience**, currently evolving into a **Cloud & Data Engineer**.
+
+I build **scalable, user-focused applications** and I’m deeply interested in how systems work behind the scenes — from UI interactions to **data pipelines and cloud infrastructure**.
+
+- 🔭 Currently building **production-ready React apps** with strong architecture
+- 🌩️ Preparing for **AWS Certified Developer – Associate**
+- 📊 Transitioning into **Data Engineering & Data Science**
+- 🧠 Passionate about **fraud detection systems, analytics, and financial data systems**
+- ⚡ I focus on **clean code, performance, and real-world impact**
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,html,css,js,aws,azure,firebase,vite,tailwind,git,github,python" />
-</p>
+## 🧠 What I’m Becoming
+
+Not just a frontend dev anymore.
+
+I’m building towards:
+
+- 🏗️ **Data Platforms** (for fintech & banking systems)
+- 🔍 **Fraud Detection Systems**
+- 📈 **Customer Analytics & Churn Models**
+- ☁️ **Cloud-Native Applications (AWS & Azure)**
 
 ---
 
-### 🧩 Featured Projects
-| Project | Description | Stack |
-|----------|--------------|-------|
-| 🛒 **E-commerce Dashboard** | Deep category search, filters, analytics & pagination using **Redux Toolkit + RTK Query + Formik** | React, TypeScript, Firebase |
-| 🧾 **Customer Management System** | Role-based dashboard with search, filters & modal verification | React, Zustand, TypeScript |
-| 📈 **Fraud Detection Prototype** | Simulated pipeline for anomaly detection using Python & Scikit-learn | Python, Pandas, AWS S3 |
-| ☁️ **Cloud Deployment Demo** | CI/CD pipeline from GitHub → Go54 (Whogohost) | AWS, GitHub Actions, Vite |
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+- React.js (TSX)
+- Redux Toolkit / RTK Query
+- TanStack Query
+- Tailwind / NativeWind
+- Vite
+
+### ⚙️ Backend / Data
+- Python (Pandas, Scikit-learn)
+- REST API Architecture (Requests, Responses, Validation, Services)
+- Firebase (BaaS)
+
+### ☁️ Cloud & DevOps
+- AWS (S3, CI/CD, Developer Tools)
+- Azure (Learning)
+- GitHub Actions (CI/CD Pipelines)
+- Whogohost / Go54 Deployment
 
 ---
 
-### 📊 GitHub Stats
+## 🧩 Featured Projects
+
+### 🛒 E-commerce System (HustleKart)
+- Full checkout flow with Paystack integration
+- State management using **Redux Toolkit + RTK Query**
+- Optimized API handling with clean architecture
+
+### 🧾 Customer Management Dashboard
+- Role-based access system
+- Advanced filtering, search & modal workflows
+- Built with **React + TypeScript + Zustand**
+
+### 📈 Fraud Detection Prototype
+- Simulated anomaly detection pipeline
+- Built with **Python + Pandas + Scikit-learn**
+- Data stored & processed via **AWS S3**
+
+### ☁️ CI/CD Deployment System
+- Automated deployments using **GitHub Actions**
+- Integrated with **Go54 (Whogohost)**
+- Focus on scalability & repeatability
+
+---
+
+## ⚡ Engineering Strengths
+
+- 🧩 Clean and scalable architecture
+- 🔌 API design & integration (production-ready patterns)
+- ⚡ Performance optimization mindset
+- 📦 Modular and reusable component systems
+- 🧠 Strong debugging & problem-solving skills
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iykemich&show_icons=true&theme=radical&count_private=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=iykemich&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IykeMich&show_icons=true&theme=radical&count_private=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=IykeMich&theme=radical" />
 </p>
 
 ---
 
-<!--- ### 🌱 Current Goals
-- 🧩 Master **advanced React patterns** (architecture, optimization, API design)
-- ☁️ Earn **AWS Developer – Associate**
-- 📊 Build **data models** & visual dashboards for real business problems
+## 🌍 Vision
 
---- ---!>
+I’m on a mission to become a **top-tier engineer in Africa**, building systems that power:
 
-<!-- - 🌱 I’m currently learning App Development and other programming languages -->
+- 🏦 Banks
+- 📡 Telecom companies
+- 💳 Payment platforms
+- 📊 Data-driven organizations
 
-- 📫 How to reach me **ikechukwuogbu321@gmail.com**
-
-<!-- - 🌐 Visit my website [Hydrogen Technologies](https://hydrogentech.com.ng) -->
-
-<!-- - ⚡ Fun fact :- Food and Music🎵 are the reasons to live. -->
-
-<br>
-
-<!-- ### Spotify Playing 🎧
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-gamma-bay.vercel.app/api?theme=dark&spin=true" alt="Current Spotify Song">
-</a>
--->
 ---
-<br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/IykeMich" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
-    </a>
-  <a href="mailto:ikechukwuogbu321@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<!--
-  <a href="https://www.facebook.com/ekwueme.Ikechukwu.315" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ugo_access/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="#!" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/Robot4040" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
+## 📫 Let’s Connect
 
--->
+- 📧 Email: **ikechukwuogbu321@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/IykeMich
+- 🧠 Open to collaborations, opportunities & building impactful systems
 
-<br>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+## ⚡ Fun Fact
 
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=IykeMich&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="IykeMich" 
-    bg_color=#808080/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IykeMich&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=IykeMich"
-    alt="IykeMich" /></p>
-
-<br>
-<p><img width="100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IykeMich&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="IykeMich" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[IykeMich](https://github.com/IykeMich)
+I treat learning like a system —  
+**Consistency + Execution + Reflection = Growth**
