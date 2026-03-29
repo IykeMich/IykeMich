@@ -129,7 +129,7 @@ I build systems with **data as a first-class concern**:
 ## 📫 Connect
 
 - 📧 **ikechukwuogbu321@gmail.com**
-- 💼 **https://www.linkedin.com/in/[ikechukwu-ogbu-a7244219a)]/**
+- 💼 **https://www.linkedin.com/in/[ikechukwu-ogbu-a7244219a]/**
 
 ---
 
