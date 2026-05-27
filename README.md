@@ -200,9 +200,9 @@ I enjoy building at the intersection of:
 
 ## Connect
 
-Email: ikechukwuogbu321@gmail.com  
-LinkedIn: linkedin.com/in/ikechukwu-ogbu-a7244219a  
-- **Portfolio** - https://ikechukwu-portfolio-three.vercel.app
+- **Email:** ikechukwuogbu321@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/ikechukwu-ogbu-a7244219a  
+- **Portfolio:** - https://ikechukwu-portfolio-three.vercel.app
 ---
 
 <p align="center">
