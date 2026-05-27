@@ -118,6 +118,7 @@ Built an end-to-end wedding planning platform connecting engaged couples with ve
 
 - **Email** — ikechukwuogbu321@gmail.com
 - **LinkedIn** — [linkedin.com/in/ikechukwu-ogbu-a7244219a](https://www.linkedin.com/in/ikechukwu-ogbu-a7244219a/)
+- **Portfolio** - https://ikechukwu-portfolio-three.vercel.app
 
 ---
 
